@@ -182,6 +182,7 @@ p {
     background-image: url("./images/image-header-desktop.jpg");
     height: 100%;
     width: 100%;
+    border-top-left-radius: 0;
     border-top-right-radius: 0.5rem;
     border-bottom-right-radius: 0.5rem;
   }
